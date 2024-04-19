@@ -1,0 +1,16 @@
+﻿  Queue.cpp
+D:\DatastructureClass\Queue\Queue.cpp(45,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  D:\DatastructureClass\Queue\Queue.cpp(45,23):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	D:\DatastructureClass\Queue\Queue.cpp(92,16):
+  	컴파일되는 클래스 템플릿 인스턴스화 'Queue<int>'에 대한 참조를 확인하세요.
+  	D:\DatastructureClass\Queue\Queue.cpp(40,10):
+  	클래스 템플릿 멤버 함수 'void Queue<int>::Dequeue(void)'을(를) 컴파일하는 중입니다.
+  		D:\DatastructureClass\Queue\Queue.cpp(109,22):
+  		'main'에서 'Queue<int>::Dequeue'에 대한 첫 번째 참조를 확인하세요.
+  
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Queue.vcxproj -> D:\DatastructureClass\Queue\Release\Queue.exe
